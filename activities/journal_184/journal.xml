@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="184" modulename="journal" contextid="321">
+  <journal id="3">
+    <name>Rate your knowledge: What do you know about self-regulated learning?</name>
+    <intro>&lt;div class="generalbox box"&gt;Tell us what you know about self-regulated learning (SRL). Add a journal entry (about 3 sentences) of your understanding of SRL and tell us whether you consider yourself an...&lt;br /&gt;- SRL expert--you apply principles of SRL in your teaching every day;&lt;br /&gt;- SRL novice--you consider the principles and are learning more about the concept;&lt;br /&gt;- SRL newbie--the term SRL and the principles are still new to you.&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <days>0</days>
+    <grade>-4</grade>
+    <timemodified>1472691714</timemodified>
+    <entries>
+    </entries>
+  </journal>
+</activity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="47" moduleid="159" modulename="label" contextid="288">
+  <label id="47">
+    <name>Math</name>
+    <intro>&lt;h4&gt;&lt;span size="3"&gt;Math&lt;/span&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389168525</timemodified>
+  </label>
+</activity>

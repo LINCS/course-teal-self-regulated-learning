@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="188" modulename="assign" contextid="332">
+  <assign id="8">
+    <name> Assignment #3: Explore Self-Regulation in Greater Detail</name>
+    <intro>&lt;p&gt;Explore the research behind self-regulated learning. Read the resources under the "General" heading, then read the resources under the "Writing" or "Math" headings depending on your focus. After you read the resources, write a two-to three-paragraph reflection of what you learned (click Edit my submission).&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt; General&lt;/strong&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a title="The Role of Self-Regulated Learning in Contextual Teaching" href="http://files.eric.ed.gov/fulltext/ED479905.pdf" target="_blank"&gt;The Role of Self-Regulated Learning in Contextual Teaching: Principles and Practices for Teacher Preparation&lt;/a&gt;&lt;/strong&gt; -- Paris &amp;amp; Winograd (2003) This article defines and describes self-regulated learning; shows how teachers can use self-regulation strategies for their own professional growth.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Writing&lt;/h3&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a title="Harris Schmidt and Graham article - Opens in new window" href="http://www.ldonline.org/article/Strategies_for_Composition_and_Self-Regulation_in_the_Writing_Process" target="_blank"&gt;Strategies for Composition and Self-Regulation in the Writing Process&lt;/a&gt;&lt;/strong&gt; -- Harris, Schmidt, &amp;amp; Graham (1997) Few people-either children or adults-would describe writing as a very easy process that they complete without much effort. Writing is a highly complex and demanding process.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="@@PLUGINFILE@@/self_regulated_writer_self_sustained_grammar_feedback_loop_Risemberg_1997.unlocked.pdf" title="PDF - Opens in new window" target="_blank"&gt;&lt;strong&gt;Research for the Future - Becoming a Self-Regulated Writer: A Social Cognitive Perspective&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt; &lt;/strong&gt;--Zimmerman &amp;amp; Risemberg (1997) Becoming an adept writer involves more than knowledge of vocabulary and grammar, it depends on high levels of personal regulation because writing activities are usually self-planned, self-initiated, and self-sustained.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Math&lt;/h3&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/pagesfortopic4.pdf" title="Opens in new window" target="_new"&gt;Improving Mathematical Problem Solving in Grades 4 Through 8:&lt;i&gt; A Practice Guide&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;i&gt;,&lt;/i&gt; Recommendation #2, Assist students in monitoring and reflecting on the problem solving process, pp.17-21. (optional: read the &lt;a href="@@PLUGINFILE@@/mps_pg_052212.pdf" title="PDF - Opens in New Window" target="_blank"&gt;full version&lt;/a&gt;.)&lt;a title="Improving Mathematical" href="http://ies.ed.gov/ncee/wwc/pdf/practice_guides/mps_pg_052212.pdf" target="_top"&gt;&lt;br /&gt; &lt;br /&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/Pages%20from%20mathematics-guide-pdf.unlocked.pdf" title="Opens in a new window" target="_new"&gt;Becoming Mathematically Literate and Numerate&lt;/a&gt;&lt;/strong&gt;, Chapter 4 in Adult Basic Education Level 3 (Adult 10) Mathematics Curriculum Guide, pp.41-58. (Optional: Read the &lt;a href="@@PLUGINFILE@@/mathematics-guide-pdf.pdf" title="PDF - Opens in new window" target="_blank"&gt;full version&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="font-size: 0.7em; text-align: left;"&gt;Above is a link to information provided by an other organization. This link is  provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at this site. The inclusion of this link is not intended to reflect their importance; nor is it intended to endorse any views or products of this organization. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1516731709</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="50">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="51">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="52">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>3</value>
+      </plugin_config>
+      <plugin_config id="53">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="54">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="55">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="56">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1957">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1958">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

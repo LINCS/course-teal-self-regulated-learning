@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="164" moduleid="1036" modulename="forum" contextid="1493">
+  <forum id="164">
+    <type>general</type>
+    <name>General Discussion &amp; Questions for the Facilitator</name>
+    <intro>Use this forum to create general discussion thread related to the course topic or to post your questions for the course facilitator that might also be of interest to others. 
+
+Click below on the name of a discussion thread to join a conversation already in progress or click "Add a new discussion topic" to begin conversation on a new subject.
+</intro>
+    <introformat>0</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>3</scale>
+    <maxbytes>0</maxbytes>
+    <maxattachments>1</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1411490851</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

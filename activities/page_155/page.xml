@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="23" moduleid="155" modulename="page" contextid="284">
+  <page id="23">
+    <name>Resources on Learner Persistence </name>
+    <intro>&lt;p&gt;These two reports from the National Center for Adult Learning and Literacy (NCSALL) will provide a context for you as you become familiar with self-regulated learning.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;
+&lt;p&gt;These two reports from the National Center for Adult Learning and Literacy (NCSALL) will provide a context for you as you become familiar with self-regulated learning.&lt;/p&gt;
+&lt;p&gt;Optional reports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="@@PLUGINFILE@@/NCSALL_-_US_Adult_Literacy_Program_Practice_-_A_Typology.pdf" target="_blank" title="NCSALL Typology - Opens in a new window"&gt;U.S. Adult Literacy Program Practice: A Typology Across Dimensions of Life-Contextualizer/Decontextualized and Dialogic/Monologic&lt;/a&gt;, by the National Center for the Study of Adult Learning and Literacy (NCSALL).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="@@PLUGINFILE@@/%20report12.pdf" target="_blank" title="NCSALL Persistence - Opens in new window"&gt;Persistence Among Adult Basic Education Students in Pre-GED Classes&lt;/a&gt;, by the National Center for the Study of Adult Learning and Literacy (NCSALL).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-size: .7em;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p style="font-size: .7em;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1472692095</timemodified>
+  </page>
+</activity>

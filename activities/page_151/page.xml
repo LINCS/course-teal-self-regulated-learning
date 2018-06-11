@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="21" moduleid="151" modulename="page" contextid="280">
+  <page id="21">
+    <name>Watch this presentation - Helping Adult Learners Become Self-Regulated [Video]</name>
+    <intro>&lt;p&gt;This article defines and describes self-regulated learning and why it’s important to help students develop self-regulation strategies, and then it turns the concept around to show how teachers can use self-regulation strategies for their own professional growth.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/Mcq0vF0F7UI?version=3&amp;amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;div id="media"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;[&lt;a title="Transcript Helping Learners Become Self-Regulated _Opens in a new window" href="@@PLUGINFILE@@/Helping_Learners_Become_Self-Regulated_v2.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;&lt;span style="color: #0000ff;" color="#0000ff"&gt;Transcript of Presentation&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;]&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Video referred to in presentation: &lt;a title="Social Cogntive Theory Self Regulated Learning" href="http://www.youtube.com/watch?v=Xay8jR8z_hY" target="_blank"&gt;Social Cognitive Theory: Self-Regulated Learning&lt;/a&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player Download" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;&lt;span style="color: #0000ff;"&gt;&lt;span style="color: #000000;"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>13</revision>
+    <timemodified>1516728748</timemodified>
+  </page>
+</activity>

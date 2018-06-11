@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scales_definition>
+  <scale id="4">
+    <courseid>0</courseid>
+    <userid>6</userid>
+    <name>Complete / Incomplete</name>
+    <scale>Incomplete, Complete</scale>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <timemodified>1396014825</timemodified>
+  </scale>
+</scales_definition>

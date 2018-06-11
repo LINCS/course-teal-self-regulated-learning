@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="24" moduleid="158" modulename="page" contextid="287">
+  <page id="24">
+    <name>Helping Students Describe Good Writing</name>
+    <intro>&lt;p&gt;&lt;br /&gt;If someone else (such as teachers) always identify what makes success, how will our students learn to do it? Do your students know how to describe good writing? Do they know what makes it "good" and what would make it better? Ask them! It’s not easy, and it will take practice.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;If someone else (such as teachers) always identify what makes success, how will our students learn to do it? &lt;br /&gt;&lt;br /&gt;Do your students know how to &lt;span style="font-style: italic; font-weight: bold;"&gt;describe&lt;/span&gt; good writing? Do they know what makes it "good" and what would make it better? &lt;br /&gt;&lt;br /&gt;Ask them! It’s not easy, and it will take practice.&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;&lt;br /&gt;Try it together as a group:&lt;/span&gt;&lt;br /&gt;Share an online, amateur movie review (or another short piece).&lt;br /&gt;Ask a series of discussion questions:&lt;/div&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Is this good?&lt;/li&gt;
+&lt;li&gt;Is it good enough?&lt;/li&gt;
+&lt;li&gt;Why, or why not?&lt;/li&gt;
+&lt;li&gt;How do you know??&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: left;"&gt;Create a list of responses. &lt;br /&gt;&lt;br /&gt;Discuss the list and push the students to think critically:&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Who is the audience?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the piece written for adults? Teens? Men? Women? How can you tell?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;ul&gt;
+&lt;li&gt;What’s the purpose of the piece?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;ul&gt;
+&lt;li&gt;Is it written in the style/genre you would expect for its purpose?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;ul&gt;
+&lt;li&gt;What’s your response?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;ul&gt;
+&lt;li&gt;Does it make you want to see the movie?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Create a rubric or checklist&lt;/span&gt; of what makes a good movie review.&lt;/div&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Identify three or four specific elements to a movie review (the genre).&lt;/li&gt;
+&lt;li&gt;Identify three or four elements of any writing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style="text-align: left;"&gt;Leave your rubric or checklist up on display and continue to discuss it in terms of students’ own writing.&lt;br /&gt;&lt;br /&gt;As you work with other genres, return to the list, and ask students to generate new specific elements of what makes a piece of writing good and good enough.&lt;br /&gt;&lt;br /&gt;Set peers to start collaborative feedback sessions around the elements. You will begin to hear students use these questions and the elements from the list to critique each others' writing and their own.&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1472692166</timemodified>
+  </page>
+</activity>

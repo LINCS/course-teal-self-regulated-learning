@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="523" moduleid="3229" modulename="page" contextid="4066">
+  <page id="523">
+    <name>Course Survey</name>
+    <intro>&lt;p&gt;Course Survey&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Congratulations on completing the LINCS course, we invite you to complete the survey. Your input is really valuable to us. We will use your feedback to improve LINCS trainings and professional development. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It typically takes 5 minutes to complete the survey. Your answers are completely anonymous and will be analyzed in combination with the answers of other course takers. Participation is voluntary.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Click here to start the survey:&lt;span style="color: #ff0000;"&gt; &amp;lt;add URL&amp;gt; for &lt;/span&gt;&lt;span style="color: #ff0000;"&gt;Writing: &lt;span&gt;http://www.surveygizmo.com/s3/4151173/Teaching-Excellence-in-Adult-Literacy-TEAL-Self-Regulated-Learning-Writing&lt;/span&gt; OR for Math: &lt;span&gt;http://www.surveygizmo.com/s3/4151224/Teaching-Excellence-in-Adult-Literacy-TEAL-Self-Regulated-Learning-Math&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Should you have any questions about this survey, please contact Marilia Mochel &lt;a href="mailto:Mochelmmochel@manhattanstrategy.com" target="_blank"&gt;mmochel@manhattanstrategy.com&lt;/a&gt; or Jessie Stadd &lt;a href="mailto:jstadd@manhattanstrategy.com" target="_blank"&gt;jstadd@manhattanstrategy.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;We appreciate your time and input.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Thank you,&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The LINCS Team&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1517412750</timemodified>
+  </page>
+</activity>

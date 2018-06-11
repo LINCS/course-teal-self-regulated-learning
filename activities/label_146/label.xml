@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="41" moduleid="146" modulename="label" contextid="275">
+  <label id="41">
+    <name>Post a journal entry about your familiarity with S...</name>
+    <intro>&lt;p&gt;Post a journal entry about your familiarity with Self-Regulated Learning (SRL).&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389311516</timemodified>
+  </label>
+</activity>

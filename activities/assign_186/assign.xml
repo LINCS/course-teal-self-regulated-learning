@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="186" modulename="assign" contextid="330">
+  <assign id="6">
+    <name>Assignment #1: Reflect with students on goals and progress</name>
+    <intro>&lt;p&gt;An important part of self-regulated learning is setting goals. Watch this video to help you introduce self-regulation to your students and encourage them to set goals and track their progress.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;iframe height="360" src="https://www.youtube.com/embed/Xay8jR8z_hY?rel=0" frameborder="0" width="480" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;[&lt;a title="PDF, opens in new window" href="@@PLUGINFILE@@/transcript.pdf" target="_blank"&gt;Transcript&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Use this short slide show on YouTube to introduce the topic in class.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Discuss:&lt;/span&gt; Where else or in what other contexts have you or your learners set and tracked goals? How did you/they do it? Did it help you/them reach the goal?&lt;br /&gt;&lt;br /&gt;Write a two-to-three paragraph reflection of how you might help your students to set goals and monitor their progress (click Edit my submission).&lt;a href="@@PLUGINFILE@@/transcript.pdf"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="font-size: 0.7em; text-align: left;"&gt;Above is a link to information provided by an other organization. This link is  provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at this site. The inclusion of this link is not intended to reflect their importance; nor is it intended to endorse any views or products of this organization. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1472692363</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="36">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="37">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="38">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="39">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="40">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="41">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="42">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1953">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1954">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

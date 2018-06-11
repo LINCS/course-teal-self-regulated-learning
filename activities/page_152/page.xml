@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="22" moduleid="152" modulename="page" contextid="281">
+  <page id="22">
+    <name>Resources from Participants to Help Students Self-Regulate and Monitor Their Own Learning</name>
+    <intro>&lt;p&gt;Check out these resources shared by past course participants.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p class="MsoNormal" style="text-align: left; color: #333333;"&gt;&lt;span style="color: #000000;"&gt;Check out these resources shared by past course participants.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: left; color: #333333;"&gt;&lt;span style="color: #000000;"&gt;From Marcia Hess, WY State Director and former South Dakota State Director: "A wonderful teacher at Cornerstones Career Learning center in South Dakota created this flow chart for GED&lt;sup&gt;&lt;span&gt;®&lt;/span&gt;&lt;/sup&gt; preparation classes so she had a visual for her students to help guide them in what was coming and what they need to know before taking the GED&lt;sup&gt;&lt;span&gt;®&lt;/span&gt;&lt;/sup&gt;. It cut down on the &lt;em&gt;'Am I ready to take the test now?'&lt;/em&gt; question and help the students to self-monitor.&lt;/span&gt; &lt;a title="PDF Flow Chart - opens in new window" style="color: #0000ff;" href="@@PLUGINFILE@@/GEDFlowChart.pdf" target="_blank"&gt;Flow Chart in pdf&lt;/a&gt;. &lt;/p&gt;
+&lt;p class="MsoNormal" style="text-align: left; color: #333333;"&gt;&lt;span style="color: #000000;"&gt;From Guillermo Verdin, past course participant from CA, a &lt;/span&gt;&lt;a title="Self Monitoring - Word Format File - Opens in a new window" style="color: #0000ff;" href="@@PLUGINFILE@@/Self_Monitoring_1_accessible.docx" target="_blank"&gt;Self Monitoring Guide (DOC)&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="font-size: 0.7em; text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p style="font-size: 0.7em; text-align: left;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1516729027</timemodified>
+  </page>
+</activity>

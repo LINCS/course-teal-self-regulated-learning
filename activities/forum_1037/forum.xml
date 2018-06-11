@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="165" moduleid="1037" modulename="forum" contextid="1494">
+  <forum id="165">
+    <type>general</type>
+    <name>Introduce yourself here</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif;" size="3"&gt;&lt;span face="Calibri"&gt;To help us get to know each other better, please introduce yourself in this forum.  &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;Click on the button below to add a new discussion thread for your introduction.  Tell us about where you live, what you do for work and for fun, your connection to adult education, your family and pets, or anything else you’d like to share about yourself.  Feel free to respond to other participant introductions as well. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif;" size="3"&gt;&lt;span face="Calibri"&gt;&lt;strong&gt;&lt;span style="color: #008080;"&gt;Tip:  &lt;/span&gt;&lt;/strong&gt;Don’t forget to update your profile!  Go to &lt;i&gt;Administration/My Profile Settings/Edit Profile&lt;/i&gt; to add your photo and background and contact information.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1472683167</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

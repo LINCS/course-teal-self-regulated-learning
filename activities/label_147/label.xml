@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="42" moduleid="147" modulename="label" contextid="276">
+  <label id="42">
+    <name>If you have not taken other LINCS Moodle courses, ...</name>
+    <intro>&lt;p&gt;If you have not taken other LINCS Moodle courses, read the following article about the differences between online and face-to-face learning.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389311838</timemodified>
+  </label>
+</activity>

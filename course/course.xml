@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="19" contextid="271">
+  <shortname>Self-Regulated Learning</shortname>
+  <fullname>Self-Regulated Learning</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Self-regulated learning refers to one's ability to understand and control one's learning behaviors. for the learner to do this, he or she must set goals, select the strategies to achieve the goals, and monitor progress towards the goals. All of these can be customized to the content, in this case, writing, to hone learners' attention to and confidence in learning particular habits, strategies, and skills.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>0</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1369800000</startdate>
+  <marker>0</marker>
+  <maxbytes>20971520</maxbytes>
+  <legacyfiles>2</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs</theme>
+  <timecreated>1326312113</timecreated>
+  <timemodified>1429073693</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>8</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>8</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="18">
+    <name>508 Testing</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

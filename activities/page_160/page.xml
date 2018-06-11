@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="25" moduleid="160" modulename="page" contextid="289">
+  <page id="25">
+    <name>Help students assess math strategies</name>
+    <intro>&lt;div style="text-align: left;"&gt;Students are best served if they understand that problems can be addressed with a variety of math strategies, and learn the most effective ones to apply in each case.&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;
+&lt;p&gt;Strategies to Help Students to Reflect on their Learning:&lt;/p&gt;
+&lt;p&gt;Students are best served if they understand that problems can be addressed with a variety of math strategies, and learn the most effective ones to apply in each case. For example, there are many ways to estimate: front-end, clustering, rounding, using compatible numbers that fit together easily in doing mental calculations, and recognizing special numbers such as benchmark fractions or decimals close to 1. Provide students with problems and ask them to estimate what the answer will be—not solve the problem. Ask them to explain their approach, why they chose their strategies, and discuss if their estimation is reasonable given all the information available.&lt;/p&gt;
+&lt;p&gt;Improving instruction is a collaborative task between students and instructors—students can provide feedback to you on which strategies are effective for them and which are not, allowing you to adjust activities to meet their needs. In addition, students need to think about how to support their own learning. You can pose questions that prompt them to plan their approach to learning both inside and outside the classroom.&lt;/p&gt;
+&lt;p&gt;Kate Nonesuch, in her chapter, "Student Resistance," in Changing the &lt;a href="@@PLUGINFILE@@/UDL_Writing_and_Math/mathman.pdf" title="Opens in new window" target="_blank"&gt;Way We Teach Math&lt;/a&gt;, recommends providing opportunities for students to evaluate the learning strategies they are being taught. Following are examples of her approach, which you could try with your students:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Nonesuch provides an evaluation form to her students to fill out after class:&lt;br /&gt;&lt;br /&gt;&lt;span style="line-height: 1.231;"&gt;Students rate statements, on a scale of 1-3 (not at all, a little, a lot) whether a strategy is, &lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;"interesting; easy to do; fun; helps me understand math; helps me remember; helps me talk about math.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Nonesuch asks students to think of their own questions about the strategy or activity, and then creates an evaluation form using those questions.&lt;/li&gt;
+&lt;li&gt;In her chapter, "Students Take Charge," Nonesuch suggests the following to help students gain self-efficacy. She asks students to plan the following:
+&lt;ul&gt;
+&lt;li&gt;the work they will do in class during the independent work session&lt;/li&gt;
+&lt;li&gt;how they will complete their studies outside of class&lt;/li&gt;
+&lt;li&gt;how they will get help if they need it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;Below are additional processes and activities for students to reflect on: (1) what they are experiencing in the classroom; (2) what concepts they understand; and (3) what they find challenging. By thinking about this information, and documenting it, students can use these data to refine current goals and develop new ones.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong style="font-weight: bold;"&gt;Admit (Entrance) and Exit Slips.&lt;/strong&gt; Before instruction begins, students write about the previous day's math lesson, a concept that they are having difficulty with, or an idea or question that comes to mind about what they are learning. At the end the end of class they do the same. This also can be conducted at mid-lesson.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong style="font-weight: bold;"&gt;Key Words.&lt;/strong&gt; Students keep a vocabulary notebook and before each class review key lesson words, terms, or concepts, to activate prior knowledge. Examples: geometric shapes with pictures and descriptions; the difference between mean, median, and mode.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Essential Question.&lt;/strong&gt; At the start of class, the teacher poses an essential, lesson-related question and the students write down their answers and share with the class. Example: Based on our understanding of __"ratios"_______, what connections can we make to our own lives?&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Problem/Solution Log.&lt;/strong&gt; Students draw a "T" chart in their learning logs and label the left column, "Concepts" and the right column, "Application." In the left column, students list concepts they learned. In the right column, they list the ways they can use the skills and concepts in their daily lives and also how the skills and concepts apply to different content areas they are studying. Example: Concepts: how to calculate area. Application: figuring out what size rug will fit in the living room.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;KWL.&lt;/strong&gt; This is a good technique to use when introducing new material. Students create three columns by drawing two vertical lines on the paper; the headings for each column are K, W, L. Before learning a new concept like "multiplication," students jot down what they already know (K), such as "I know the multiplication table through ten." Students then jot down things they want to know (W), such as "what is an easy way to multiply two two-digit numbers in my head?" After learning, students jot down what they learned (L), such as "I can break each two-digit number down into tens and ones." This can be a shared or individual activity.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Compare/Contrast Venn Diagram.&lt;/strong&gt; Students jot down words, concepts, or types of numbers to show how things are alike and how they are different. Examples: how the "equals" sign can be defined as "is the same as," or "produces;" how perimeter, area, and volume are related, but different; or how the following are all different ways to numerically say the same thing: .5, ½, 50%, etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Dialogue Journal.&lt;/strong&gt; Students write questions or observations about a lesson or activity. They trade with a partner and the partner writes answers or comments. Example: Partner A: "Plan B is the best phone deal." Partner B: "You thought that phone plan B was the best deal. How did you come to that conclusion?"&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Personal Connections.&lt;/strong&gt; Students respond to and/or make personal connections before, during, or after a learning experience. Example: "Today, we will begin learning about temperature. Let's discuss a time when you were affected by extreme temperatures."&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Make Predictions.&lt;/strong&gt; Students apply estimation strategies such as front-end, clustering, rounding, or using comparable numbers, and explain how they came to their conclusions.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Self-Evaluation.&lt;/strong&gt; Students rank their learning of a concept or idea on a scale of 1 to 5, with an explanation of why they gave their learning that particular ranking. They can use this data to graph how they are doing over one month.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Visual Representations.&lt;/strong&gt; Students create a graph, drawing, chart, or other visual to show their learning.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-weight: bold;"&gt;Project Log.&lt;/strong&gt; As students work on a project, such as developing a survey, collecting data, graphing the data, and analyzing the results, they keep a log of their activities, difficulties, processes, thoughts, frustrations, successes, and other information that details their experiences as they worked on the project.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p&gt;Source: Modified from: &lt;a href="@@PLUGINFILE@@/UDL_Writing_and_Math/Learning_Logs_for_Math_Science.doc" title="Opens in new window" target="_blank"&gt;System for Adult Basic Education Support (SABES).&lt;/a&gt; (u.d.). &lt;strong style="font-style: italic;"&gt;Focus on assessment: Using learning logs with science/math instruction.&lt;/strong&gt; Retrieved November 13, 2012&lt;/p&gt;
+&lt;span style="font-size: x-small;"&gt;Adapted from Focus on Assessment: Using Learning Logs with Science/Math Instruction with the permission of the Massachusetts System for Adult Basic Education Support (SABES). SABES is funded by the Massachusetts Dept. of Elementary &amp;amp; Secondary Education.&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;strong style="font-style: italic;"&gt; &lt;/strong&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;strong style="font-style: italic;"&gt;&lt;/strong&gt;
+&lt;p style="font-size: .7em;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1472692196</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="20" moduleid="150" modulename="page" contextid="279">
+  <page id="20">
+    <name>Background Readings</name>
+    <intro>&lt;p&gt;Participants should read these articles when they start this course. They will provide background knowledge and a common vocabulary about self-regulated learning.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;Participants should read these articles when they start this course. They will provide background knowledge and a common vocabulary about self-regulated learning.
+&lt;h3&gt;&lt;strong&gt;Across the Content Areas&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a title="PDF - SRL Fact Sheet - Opens in New Window" href="@@PLUGINFILE@@/3_TEAL_Self_Reg_Learning.pdf" target="_blank"&gt;&lt;span&gt;&lt;strong&gt;TEAL Center Fact Sheet on Self-regulated Learning&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt; makes explicit how self-regulated learning can be applied to the adult education context.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a title="Metacognitive Processes - Open a new window" href="@@PLUGINFILE@@/4_TEAL_Metacognitive.pdf" target="_blank"&gt;&lt;strong&gt;TEAL Center Fact Sheet on Metacognitive Processes&lt;/strong&gt;&lt;/a&gt; shares ideas for boosting learners' thinking about the processes they use to learn.&lt;br /&gt; Bookmark these Fact Sheets for future reference and share with colleagues. They may also be downloaded from the &lt;a title="TEAL Web site" href="http://lincs.ed.gov/programs/teal" target="_blank"&gt;TEAL Web Site&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;strong&gt; &lt;a title="Scott G. Paris and Peter Winograd Article - opens a new window." href="http://www.ciera.org/library/archive/2001-04/0104parwin.htm" target="_new"&gt;This article&lt;/a&gt;&lt;/strong&gt; defines and describes self-regulated learning and why it's important to help students develop self-regulation strategies, and then it turns the concept around to show how teachers can use self-regulation strategies for their own professional growth. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span&gt;Math&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title="Opens in New Window" href="http://www.ncsall.net/index.html@id=331.html" target="_new"&gt;The Effects of Continuing Goal-Setting on Persistence in a Math Classroom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-size: .7em;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p style="font-size: .7em;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>13</revision>
+    <timemodified>1472691904</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="137" moduleid="3240" modulename="url" contextid="4077">
+  <url id="137">
+    <name>Navigating Your Course - LINCS Learning Portal Help Video</name>
+    <intro>&lt;p&gt;LINCS Learning Portal Help Video&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.youtube.com/watch?v=d3W45thX0m8&amp;feature=youtu.be</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1472683136</timemodified>
+  </url>
+</activity>
