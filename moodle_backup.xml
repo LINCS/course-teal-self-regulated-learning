@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup-moodle2-course-19-self-regulated_learning-20180611-1637-nu.mbz</name>
+    <name>backup-moodle2-course-19-self-regulated_learning-20181107-1720-nu.mbz</name>
     <moodle_version>2013111811.01</moodle_version>
     <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
     <backup_version>2013111800</backup_version>
     <backup_release>2.6</backup_release>
-    <backup_date>1528749468</backup_date>
+    <backup_date>1541629239</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>0</include_file_references_to_external_content>
@@ -19,7 +19,7 @@
     <original_course_contextid>271</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="2df13f451ba4e73c23db0e4a53606144">
+      <detail backup_id="259e63a36197ef08e6d84db358760b39">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -202,25 +202,25 @@ By the end of this course...</title>
           <directory>activities/assign_188</directory>
         </activity>
         <activity>
-          <moduleid>185</moduleid>
-          <sectionid>104</sectionid>
-          <modulename>journal</modulename>
-          <title>Set your Personal Goal for Teaching Self-Regulated Learning Strategies</title>
-          <directory>activities/journal_185</directory>
-        </activity>
-        <activity>
           <moduleid>166</moduleid>
           <sectionid>104</sectionid>
           <modulename>label</modulename>
-          <title>Remember that your goal statements need to be spec...</title>
+          <title>Goal statements need to be specific enough to ensu...</title>
           <directory>activities/label_166</directory>
         </activity>
         <activity>
           <moduleid>167</moduleid>
           <sectionid>104</sectionid>
           <modulename>page</modulename>
-          <title>Steps to refine your goals statements</title>
+          <title>Steps to refine your goal statements</title>
           <directory>activities/page_167</directory>
+        </activity>
+        <activity>
+          <moduleid>185</moduleid>
+          <sectionid>104</sectionid>
+          <modulename>journal</modulename>
+          <title>Set your Personal Goal for Teaching Self-Regulated Learning Strategies</title>
+          <directory>activities/journal_185</directory>
         </activity>
         <activity>
           <moduleid>168</moduleid>
@@ -301,7 +301,7 @@ By the end of this course...</title>
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup-moodle2-course-19-self-regulated_learning-20180611-1637-nu.mbz</value>
+        <value>backup-moodle2-course-19-self-regulated_learning-20181107-1720-nu.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -735,18 +735,6 @@ By the end of this course...</title>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>journal_185</activity>
-        <name>journal_185_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>journal_185</activity>
-        <name>journal_185_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>activity</level>
         <activity>label_166</activity>
         <name>label_166_included</name>
         <value>1</value>
@@ -767,6 +755,18 @@ By the end of this course...</title>
         <level>activity</level>
         <activity>page_167</activity>
         <name>page_167_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_185</activity>
+        <name>journal_185_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_185</activity>
+        <name>journal_185_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
